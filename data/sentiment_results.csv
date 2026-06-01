@@ -1,0 +1,815 @@
+text,final label,prediction,predicted_sentiment
+forest fires environmental management,neutral,1.0,negative
+climate change environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,negative,1.0,negative
+climate change environmental management,positive,1.0,negative
+climate change environmental management,negative,1.0,negative
+deforestation environmental management,negative,1.0,negative
+climate change environmental management,positive,1.0,negative
+climate change environmental management,negative,1.0,negative
+climate change environmental management,negative,1.0,negative
+climate change environmental management,neutral,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,positive,1.0,negative
+nature preserve environmental management,positive,2.0,neutral
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,positive,1.0,negative
+forest fires environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+protected forest environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,positive,1.0,negative
+climate change environmental management,neutral,1.0,negative
+climate change environmental management,positive,1.0,negative
+mangrove forest environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+carbon emission environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,negative,1.0,negative
+climate change environmental management,negative,1.0,negative
+electric vehicle environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+recycle environmental management,positive,0.0,positive
+carbon emission environmental management,negative,0.0,positive
+protected forest environmental management,negative,1.0,negative
+recycle environmental management,positive,0.0,positive
+ecotourism environmental management,neutral,0.0,positive
+climate change environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,negative,0.0,positive
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+biodiversity environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,positive,1.0,negative
+nickel environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,neutral,1.0,negative
+climate change environmental management,negative,1.0,negative
+electric car environmental management,negative,0.0,positive
+climate change environmental management,positive,1.0,negative
+climate change environmental management,neutral,1.0,negative
+mangrove forest environmental management,negative,0.0,positive
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,neutral,1.0,negative
+forest fires environmental management,neutral,1.0,negative
+electric car environmental management,positive,0.0,positive
+forest fires environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,negative,1.0,negative
+recycle environmental management,neutral,0.0,positive
+climate change environmental management,neutral,1.0,negative
+forest fires environmental management,positive,1.0,negative
+nickel environmental management,neutral,1.0,negative
+global warming environmental management,positive,1.0,negative
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+biodiversity environmental management,negative,0.0,positive
+climate change environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+biodiversity environmental management,positive,0.0,positive
+protected forest environmental management,negative,1.0,negative
+climate change environmental management,negative,1.0,negative
+climate change environmental management,negative,1.0,negative
+carbon emission environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+ecotourism environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,positive,1.0,negative
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+deforestation environmental management,negative,1.0,negative
+carbon emission environmental management,positive,0.0,positive
+recycle environmental management,negative,0.0,positive
+nature preserve environmental management,neutral,2.0,neutral
+deforestation environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,positive,0.0,positive
+climate change environmental management,neutral,1.0,negative
+climate change environmental management,negative,1.0,negative
+nickel environmental management,positive,1.0,negative
+forest fires environmental management,neutral,1.0,negative
+electric car environmental management,negative,0.0,positive
+biodiversity environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+climate change environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,positive,1.0,negative
+forest fires environmental management,positive,1.0,negative
+recycle environmental management,positive,0.0,positive
+recycle environmental management,negative,0.0,positive
+ecotourism environmental management,negative,0.0,positive
+climate change environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,negative,0.0,positive
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,positive,1.0,negative
+global warming environmental management,positive,1.0,negative
+climate change environmental management,neutral,1.0,negative
+electric vehicle environmental management,neutral,0.0,positive
+climate change environmental management,negative,1.0,negative
+forest fires environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,neutral,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,positive,1.0,negative
+biodiversity environmental management,negative,0.0,positive
+electric car environmental management,neutral,0.0,positive
+recycle environmental management,negative,0.0,positive
+climate change environmental management,positive,1.0,negative
+electric car environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+nickel environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,positive,1.0,negative
+climate change environmental management,negative,1.0,negative
+nature preserve environmental management,neutral,2.0,neutral
+climate change environmental management,positive,1.0,negative
+electric car environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+climate change environmental management,negative,1.0,negative
+electric car environmental management,negative,0.0,positive
+electric car environmental management,neutral,0.0,positive
+nickel environmental management,positive,1.0,negative
+nickel environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+ecotourism environmental management,negative,0.0,positive
+ecotourism environmental management,positive,0.0,positive
+ecotourism environmental management,positive,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+deforestation environmental management,negative,1.0,negative
+global warming environmental management,negative,1.0,negative
+electric car environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+global warming environmental management,neutral,1.0,negative
+nature preserve environmental management,neutral,2.0,neutral
+electric car environmental management,neutral,0.0,positive
+climate change environmental management,negative,1.0,negative
+climate change environmental management,negative,1.0,negative
+forest fires environmental management,positive,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+forest fires environmental management,positive,1.0,negative
+nickel environmental management,positive,1.0,negative
+electric car environmental management,positive,0.0,positive
+biodiversity environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+forest fires environmental management,neutral,1.0,negative
+climate change environmental management,negative,1.0,negative
+climate change environmental management,positive,1.0,negative
+ecotourism environmental management,positive,0.0,positive
+climate change environmental management,neutral,1.0,negative
+mangrove forest environmental management,negative,0.0,positive
+forest fires environmental management,negative,1.0,negative
+carbon emission environmental management,negative,0.0,positive
+climate change environmental management,neutral,1.0,negative
+electric vehicle environmental management,neutral,0.0,positive
+climate change environmental management,negative,1.0,negative
+wildlife reserve environmental management,neutral,1.0,negative
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+protected forest environmental management,positive,1.0,negative
+electric car environmental management,negative,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,neutral,1.0,negative
+protected forest environmental management,positive,1.0,negative
+nature preserve environmental management,positive,2.0,neutral
+nature preserve environmental management,neutral,2.0,neutral
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+nickel environmental management,positive,1.0,negative
+climate change environmental management,positive,1.0,negative
+biodiversity environmental management,negative,0.0,positive
+deforestation environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+nature preserve environmental management,positive,2.0,neutral
+electric car environmental management,positive,0.0,positive
+forest fires environmental management,neutral,1.0,negative
+electric vehicle environmental management,neutral,0.0,positive
+climate change environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+nickel environmental management,positive,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+climate change environmental management,neutral,1.0,negative
+electric car environmental management,neutral,0.0,positive
+nature preserve environmental management,neutral,2.0,neutral
+electric vehicle environmental management,positive,0.0,positive
+forest fires environmental management,positive,1.0,negative
+nature preserve environmental management,neutral,2.0,neutral
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,neutral,1.0,negative
+biodiversity environmental management,neutral,0.0,positive
+forest fires environmental management,positive,1.0,negative
+electric car environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+ecotourism environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+biodiversity environmental management,positive,0.0,positive
+climate change environmental management,negative,1.0,negative
+climate change environmental management,negative,1.0,negative
+nickel environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+recycle environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+ecotourism environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+recycle environmental management,neutral,0.0,positive
+climate change environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+nickel environmental management,positive,1.0,negative
+recycle environmental management,negative,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+forest fires environmental management,positive,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+biodiversity environmental management,negative,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+global warming environmental management,negative,1.0,negative
+recycle environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+climate change environmental management,negative,1.0,negative
+nickel environmental management,positive,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+nickel environmental management,negative,1.0,negative
+nickel environmental management,neutral,1.0,negative
+climate change environmental management,positive,1.0,negative
+electric car environmental management,positive,0.0,positive
+recycle environmental management,negative,0.0,positive
+forest fires environmental management,positive,1.0,negative
+electric car environmental management,positive,0.0,positive
+climate change environmental management,positive,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+mangrove forest environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+global warming environmental management,neutral,1.0,negative
+deforestation environmental management,negative,1.0,negative
+biodiversity environmental management,positive,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+biodiversity environmental management,neutral,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+biodiversity environmental management,neutral,0.0,positive
+carbon emission environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+ecotourism environmental management,positive,0.0,positive
+nickel environmental management,negative,1.0,negative
+biodiversity environmental management,positive,0.0,positive
+climate change environmental management,positive,1.0,negative
+climate change environmental management,positive,1.0,negative
+carbon emission environmental management,negative,0.0,positive
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,negative,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+ecotourism environmental management,positive,0.0,positive
+nickel environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+mangrove forest environmental management,neutral,0.0,positive
+climate change environmental management,neutral,1.0,negative
+climate change environmental management,neutral,1.0,negative
+ecotourism environmental management,neutral,0.0,positive
+climate change environmental management,neutral,1.0,negative
+electric car environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+climate change environmental management,positive,1.0,negative
+climate change environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+carbon emission environmental management,positive,0.0,positive
+climate change environmental management,negative,1.0,negative
+electric car environmental management,negative,0.0,positive
+forest fires environmental management,negative,1.0,negative
+recycle environmental management,negative,0.0,positive
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+ecotourism environmental management,negative,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+climate change environmental management,neutral,1.0,negative
+electric car environmental management,positive,0.0,positive
+deforestation environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,negative,1.0,negative
+climate change environmental management,negative,1.0,negative
+forest fires environmental management,positive,1.0,negative
+climate change environmental management,negative,1.0,negative
+recycle environmental management,positive,0.0,positive
+climate change environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,positive,1.0,negative
+climate change environmental management,neutral,1.0,negative
+climate change environmental management,negative,1.0,negative
+electric car environmental management,negative,0.0,positive
+climate change environmental management,negative,1.0,negative
+deforestation environmental management,positive,1.0,negative
+biodiversity environmental management,positive,0.0,positive
+deforestation environmental management,positive,1.0,negative
+electric car environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,positive,1.0,negative
+ecotourism environmental management,positive,0.0,positive
+mangrove forest environmental management,positive,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+ecotourism environmental management,neutral,0.0,positive
+climate change environmental management,negative,1.0,negative
+climate change environmental management,positive,1.0,negative
+climate change environmental management,negative,1.0,negative
+electric car environmental management,negative,0.0,positive
+nature preserve environmental management,negative,2.0,neutral
+electric car environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+forest fires environmental management,positive,1.0,negative
+biodiversity environmental management,positive,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+carbon emission environmental management,neutral,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+forest fires environmental management,positive,1.0,negative
+biodiversity environmental management,positive,0.0,positive
+global warming environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+climate change environmental management,positive,1.0,negative
+electric vehicle environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+climate change environmental management,negative,1.0,negative
+biodiversity environmental management,negative,0.0,positive
+biodiversity environmental management,negative,0.0,positive
+electric car environmental management,positive,0.0,positive
+climate change environmental management,positive,1.0,negative
+electric car environmental management,neutral,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+climate change environmental management,positive,1.0,negative
+global warming environmental management,positive,1.0,negative
+carbon emission environmental management,negative,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,negative,0.0,positive
+forest fires environmental management,negative,1.0,negative
+global warming environmental management,negative,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+nickel environmental management,negative,1.0,negative
+deforestation environmental management,negative,1.0,negative
+ecotourism environmental management,neutral,0.0,positive
+ecotourism environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,positive,1.0,negative
+carbon emission environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+electric vehicle environmental management,negative,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+nickel environmental management,negative,1.0,negative
+protected forest environmental management,positive,1.0,negative
+electric car environmental management,negative,0.0,positive
+forest fires environmental management,negative,1.0,negative
+carbon emission environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+carbon emission environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,positive,0.0,positive
+forest fires environmental management,neutral,1.0,negative
+forest fires environmental management,neutral,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+mangrove forest environmental management,neutral,0.0,positive
+biodiversity environmental management,neutral,0.0,positive
+climate change environmental management,positive,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+carbon emission environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,positive,0.0,positive
+nickel environmental management,neutral,1.0,negative
+mangrove forest environmental management,positive,0.0,positive
+global warming environmental management,negative,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+deforestation environmental management,negative,1.0,negative
+electric car environmental management,negative,0.0,positive
+electric car environmental management,positive,0.0,positive
+biodiversity environmental management,negative,0.0,positive
+biodiversity environmental management,neutral,0.0,positive
+global warming environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+bauxite environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+electric vehicle environmental management,neutral,0.0,positive
+recycle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+mangrove forest environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,positive,0.0,positive
+forest fires environmental management,neutral,1.0,negative
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+ecotourism environmental management,positive,0.0,positive
+ecotourism environmental management,positive,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+biodiversity environmental management,negative,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+recycle environmental management,neutral,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+forest fires environmental management,negative,1.0,negative
+mangrove forest environmental management,positive,0.0,positive
+forest fires environmental management,positive,1.0,negative
+global warming environmental management,negative,1.0,negative
+nickel environmental management,neutral,1.0,negative
+electric vehicle environmental management,neutral,0.0,positive
+nickel environmental management,positive,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+forest fires environmental management,neutral,1.0,negative
+electric car environmental management,neutral,0.0,positive
+ecotourism environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+forest fires environmental management,neutral,1.0,negative
+electric car environmental management,negative,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+forest fires environmental management,positive,1.0,negative
+carbon emission environmental management,negative,0.0,positive
+forest fires environmental management,positive,1.0,negative
+nickel environmental management,positive,1.0,negative
+electric car environmental management,positive,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+nickel environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+nature preserve environmental management,positive,2.0,neutral
+nickel environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+protected forest environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,negative,0.0,positive
+recycle environmental management,negative,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+global warming environmental management,neutral,1.0,negative
+global warming environmental management,negative,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,negative,0.0,positive
+nickel environmental management,positive,1.0,negative
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+ecotourism environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+biodiversity environmental management,negative,0.0,positive
+carbon emission environmental management,positive,0.0,positive
+nature preserve environmental management,positive,2.0,neutral
+forest fires environmental management,positive,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+electric car environmental management,negative,0.0,positive
+forest fires environmental management,neutral,1.0,negative
+biodiversity environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+ecotourism environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+global warming environmental management,neutral,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+forest fires environmental management,neutral,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,positive,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+climate change environmental management,positive,1.0,negative
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+recycle environmental management,positive,0.0,positive
+recycle environmental management,negative,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,negative,0.0,positive
+electric car environmental management,positive,0.0,positive
+forest fires environmental management,positive,1.0,negative
+electric car environmental management,neutral,0.0,positive
+carbon emission environmental management,positive,0.0,positive
+recycle environmental management,negative,0.0,positive
+electric vehicle environmental management,negative,0.0,positive
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,negative,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,negative,0.0,positive
+bauxite environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+nickel environmental management,negative,1.0,negative
+electric car environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+electric car environmental management,negative,0.0,positive
+biodiversity environmental management,negative,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+ecotourism environmental management,neutral,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+protected forest environmental management,neutral,1.0,negative
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+global warming environmental management,positive,1.0,negative
+electric car environmental management,positive,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+forest fires environmental management,positive,1.0,negative
+electric car environmental management,positive,0.0,positive
+carbon emission environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,neutral,0.0,positive
+climate change environmental management,positive,1.0,negative
+global warming environmental management,negative,1.0,negative
+electric car environmental management,negative,0.0,positive
+electric car environmental management,neutral,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+biodiversity environmental management,neutral,0.0,positive
+carbon emission environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+carbon emission environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+electric vehicle environmental management,negative,0.0,positive
+climate change environmental management,positive,1.0,negative
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+carbon emission environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+biodiversity environmental management,negative,0.0,positive
+electric car environmental management,positive,0.0,positive
+forest fires environmental management,negative,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+nickel environmental management,neutral,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+forest fires environmental management,neutral,1.0,negative
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+biodiversity environmental management,positive,0.0,positive
+bauxite environmental management,neutral,0.0,positive
+nickel environmental management,neutral,1.0,negative
+electric car environmental management,positive,0.0,positive
+ecotourism environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,positive,0.0,positive
+biodiversity environmental management,neutral,0.0,positive
+forest fires environmental management,negative,1.0,negative
+electric vehicle environmental management,neutral,0.0,positive
+global warming environmental management,negative,1.0,negative
+electric car environmental management,neutral,0.0,positive
+forest fires environmental management,neutral,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+forest fires environmental management,positive,1.0,negative
+forest fires environmental management,positive,1.0,negative
+electric car environmental management,negative,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+nickel environmental management,positive,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,negative,0.0,positive
+nature preserve environmental management,neutral,2.0,neutral
+electric car environmental management,negative,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+forest fires environmental management,positive,1.0,negative
+forest fires environmental management,neutral,1.0,negative
+electric vehicle environmental management,neutral,0.0,positive
+bauxite environmental management,neutral,0.0,positive
+mangrove forest environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,negative,0.0,positive
+electric car environmental management,negative,0.0,positive
+protected forest environmental management,negative,1.0,negative
+nickel environmental management,negative,1.0,negative
+nickel environmental management,neutral,1.0,negative
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+protected forest environmental management,positive,1.0,negative
+electric car environmental management,negative,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+protected forest environmental management,positive,1.0,negative
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric motor environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric vehicle environmental management,positive,0.0,positive
+electric car environmental management,negative,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,neutral,0.0,positive
+nickel environmental management,positive,1.0,negative
+electric car environmental management,negative,0.0,positive
+electric car environmental management,positive,0.0,positive
+electric car environmental management,neutral,0.0,positive
+electric vehicle environmental management,negative,0.0,positive
